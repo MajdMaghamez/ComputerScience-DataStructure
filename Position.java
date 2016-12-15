@@ -1,5 +1,3 @@
-package cs435;
-
 public abstract class Position {
 	
 	private final int value;
